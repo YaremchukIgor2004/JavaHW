@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"project","l":"FileHandler"},{"p":"project","l":"Formatter"},{"p":"project","l":"RegexSearcher"},{"p":"project","l":"SyntaxHighlighter"},{"p":"project","l":"TextAnalyzer"},{"p":"project","l":"TextEditor"}];updateSearchResults();

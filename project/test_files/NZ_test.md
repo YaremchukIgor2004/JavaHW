@@ -1,0 +1,55 @@
+# Formatted Text
+
+- // Test File for TextEditor
+- 
+- /* Analysis Section */
+- This text contains multiple elements:
+- - Vowels: aeiou
+- - Special Characters: @#$%^&*
+- - Words: this, text, contains
+- 
+- /* Syntax Highlighting */
+- if (x > 10) {
+-     println("x is greater than 10!");
+- } else {
+-     println("x is 10 or less.");
+- }
+- 
+- /* Markdown Example */
+- # Heading Level 1
+- ## Heading Level 2
+- ### Heading Level 3
+- 
+- **Bold Text** and _Italic Text_ are supported.
+- 
+- - Unordered List Item 1
+- - Unordered List Item 2
+-   - Nested Item
+-     - Nested Item Level 2
+- 
+- 1. Ordered List Item 1
+- 2. Ordered List Item 2
+- 
+- /* Regex Search Test */
+- Emails:
+- - test@example.com
+- - regex@mail.com
+- 
+- Dates:
+- - 2024-11-26
+- - 2024/11/26
+- 
+- Phone Numbers:
+- - +1-800-555-0199
+- - 555-0199
+- 
+- /* Syntax Highlighting Rules Test */
+- int main() {
+-     printf("Hello, world!");
+-     return 0;
+- }
+- 
+- /* Edge Cases */
+- IFI should not highlight "if."
+- Hello_if_world should not highlight "if."
+- Multiple words like: if, for, while should be highlighted if they match rules.
